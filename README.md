@@ -26,6 +26,7 @@ cd mcp-hello
 ### 3. Create a Virtual Environment
 
 Create a new virtual environment using `uv`:
+* **uv**: A command-line tool to simplify project setup and management in Python.
 
 ```bash
 uv venv
@@ -65,8 +66,6 @@ mcp dev main.py
 
 This will start the project in development mode.
 
-## Additional Information
 
-* **MCP**: The Microservice Control Plane (MCP) is a framework designed to simplify the management of microservices in distributed systems.
-* **uv**: A command-line tool to simplify project setup and management in Python.
+
 
