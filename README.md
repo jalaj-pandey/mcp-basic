@@ -1,7 +1,7 @@
 
 # MCP Basic Project
 
-This repository contains a basic implementation of the MCP (Microservice Control Plane) framework. This guide will walk you through the steps to clone the repository, set up a virtual environment, and run the project.
+This repository contains a basic implementation of the MCP (Model Context Protocol). This guide will walk you through the steps to clone the repository, set up a virtual environment, and run the MCP project.
 
 ## Steps to Set Up the Project
 
