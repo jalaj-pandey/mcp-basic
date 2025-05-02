@@ -70,11 +70,3 @@ This will start the project in development mode.
 * **MCP**: The Microservice Control Plane (MCP) is a framework designed to simplify the management of microservices in distributed systems.
 * **uv**: A command-line tool to simplify project setup and management in Python.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-This README provides the steps to clone, set up, and run the project. Feel free to add any additional details about the project, such as dependencies, features, or configuration options.
-```
